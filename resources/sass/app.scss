@@ -1,0 +1,31 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Frontend
+@import "frontend/login";
+@import "frontend/blog-card";
+@import "frontend/frontend";
+
+//Layout
+@import "layouts/alignments";
+@import "layouts/widgets";
+@import "layouts/backgrounds";
+@import "layouts/cards";
+@import "layouts/layouts";
+@import "layouts/dropdown";
+@import "layouts/checkout";
+
+//Custom
+@import "custom/icon-list";
+@import "custom/style";
+@import "custom/custom-styles";
+
+// Responsive
+@import "layouts/responsive"

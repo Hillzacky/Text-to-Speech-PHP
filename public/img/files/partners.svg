@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1442" height="900" viewBox="0 0 1442 900">
+    <defs>
+        <radialGradient id="0e4y76k4oc" cx="50%" cy="50%" r="70.692%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#2A2E37"/>
+            <stop offset="100%" stop-color="#2A2E37"/>
+        </radialGradient>
+        <radialGradient id="bt1c6wf2gd" cx="50%" cy="50%" r="50.01%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="29.43%" stop-color="#7D7D7D"/>
+            <stop offset="100%"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </radialGradient>
+        <path id="hdllgrrlra" d="M0 0H1442V900H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="tmra2qrhrb" fill="#fff">
+                <use xlink:href="#hdllgrrlra"/>
+            </mask>
+            <g mask="url(#tmra2qrhrb)">
+                <g>
+                    <path fill="#2A2E37" fill-rule="nonzero" d="M0 0H2096V2096H0z" transform="translate(-328.000000, -488.000000)"/>
+                    <path fill="url(#0e4y76k4oc)" fill-rule="nonzero" d="M0 0H2096V2096H0z" transform="translate(-328.000000, -488.000000)"/>
+                    <g stroke="#5D667A" stroke-opacity=".5" stroke-width=".5" transform="translate(-328.000000, -488.000000)">
+                        <circle cx="1048" cy="1048" r="1048"/>
+                        <circle cx="1048" cy="1048" r="1011.862"/>
+                        <circle cx="1048" cy="1048" r="975.724"/>
+                        <circle cx="1048" cy="1048" r="939.586"/>
+                        <circle cx="1048" cy="1048" r="903.448"/>
+                        <circle cx="1048" cy="1048" r="867.31"/>
+                        <circle cx="1048" cy="1048" r="831.172"/>
+                        <circle cx="1048" cy="1048" r="795.034"/>
+                        <circle cx="1048" cy="1048" r="758.897"/>
+                        <circle cx="1048" cy="1048" r="722.759"/>
+                        <circle cx="1048" cy="1048" r="686.621"/>
+                        <circle cx="1048" cy="1048" r="650.483"/>
+                        <circle cx="1048" cy="1048" r="614.345"/>
+                        <circle cx="1048" cy="1048" r="578.207"/>
+                        <circle cx="1048" cy="1048" r="542.069"/>
+                        <circle cx="1048" cy="1048" r="505.931"/>
+                        <circle cx="1048" cy="1048" r="469.793"/>
+                        <circle cx="1048" cy="1048" r="433.655"/>
+                        <circle cx="1048" cy="1048" r="397.517"/>
+                        <circle cx="1048" cy="1048" r="361.379"/>
+                        <circle cx="1048" cy="1048" r="325.241"/>
+                        <circle cx="1048" cy="1048" r="289.103"/>
+                        <circle cx="1048" cy="1048" r="252.966"/>
+                        <circle cx="1048" cy="1048" r="216.828"/>
+                        <circle cx="1048" cy="1048" r="180.69"/>
+                        <circle cx="1048" cy="1048" r="144.552"/>
+                        <circle cx="1048" cy="1048" r="108.414"/>
+                        <circle cx="1048" cy="1048" r="72.276"/>
+                        <circle cx="1048" cy="1048" r="36.138"/>
+                    </g>
+                    <path fill="url(#bt1c6wf2gd)" fill-rule="nonzero" style="mix-blend-mode:overlay" d="M0 0H2096V2096H0z" opacity=".477" transform="translate(-328.000000, -488.000000)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

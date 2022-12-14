@@ -1,0 +1,267 @@
+/* ==========================================================================           
+ *
+ *    BACKEND RESPONSIVE STYLES
+ *
+ * ========================================================================== */
+@media (max-width: 768px) {
+    .header-brand-img {
+        display: none;
+    }
+
+    .header-brand {
+        min-width: 30px!important;
+    }
+
+    .app-header .header-brand-img.mobile-logo {
+        display: block!important;
+        height: 3rem;
+    }
+
+    #search-bar {
+        display: none;
+    }
+
+    .header-notify {
+        display: none;
+    }
+
+    .header-expand {
+        display: none;
+    }
+
+    #tts-body-minify {
+        padding-left: 1.5rem!important;
+    }
+
+    #listen-text {
+        margin-right: 0!important;
+        margin-bottom: 1rem;
+    }
+
+    #preview-box {
+        margin-top: 1rem;
+    }
+
+    #project-box {
+        padding-right: 12px!important;
+        margin-top: 1rem;
+    }
+
+    #add-project-box {
+        display: none;
+    }
+
+    #special-buttons {
+        display: inline-block!important;
+
+        .dropdown {
+            margin-bottom: 1rem;
+        }
+    }
+
+    #preview-box {
+        display: none;
+    }
+
+    #voice-minify {
+        padding-right: 13px!important;
+    }
+
+    .special-buttons {
+        margin-bottom: 1rem;
+    }
+
+    #textarea-box {
+        margin-bottom: 1rem!important;
+    }
+
+    .textarea-voice,
+    .textarea-actions {
+        display: none!important;
+    }
+
+    .textarea-text {
+        margin: 0!important;
+    }
+
+    .textarea-row {
+        padding: 10px 8px!important;
+    }
+
+    #tts-body-minify {
+        padding-left: 1rem!important;
+        padding-right: 1rem!important;
+        padding-top: 1.5rem!important;
+    }
+
+    #synthesize-text-form {
+        width: 100%;
+    }
+
+    #upload-music {
+        margin-right: 0!important;
+        margin-bottom: 1rem;
+    }
+
+    #list-music {
+        margin-bottom: 1rem;
+    }
+
+    #listen-minify {
+        display: none;
+    }
+
+    .pl-minify {
+        padding-left: 12px!important;
+    }
+
+    .pr-minify {
+        padding-right: 12px!important;
+    }
+
+    #audio-format-minify {
+        margin-top: 1rem!important;
+    }
+
+    #card-minify {
+        padding-left: 5px!important;
+        padding-right: 5px!important;
+    }
+
+    #card-body-minify {
+        padding-left: 10px!important;
+        padding-right: 10px!important;
+    }
+
+    .prices-responsive {
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+}
+
+
+/* ==========================================================================           
+ *
+ *    FRONTEND RESPONSIVE STYLES
+ *
+ * ========================================================================== */
+@media (max-width: 768px) {
+
+    .fixed-top {
+        position: relative!important;
+    }
+
+    .central-banner {
+        position: relative!important;
+    }
+
+    .flags-info {
+        h4 {
+            font-size: 20px!important;
+        }
+        
+        p {
+            font-size: 14px!important;
+        }
+    }
+
+    #flags-minify {
+        padding-left: 15px!important;
+        margin-top: 3rem;
+    }
+
+    #google-banner-minify {
+        display: none;
+    }
+
+    #banner-wrapper h5 {
+        font-size: 16px;
+    }
+
+    #banner-wrapper p {
+        font-size: 12px;
+    }
+
+    .copyright-left {
+        float: none!important;
+        text-align: center;
+    }
+
+    .copyright-right {
+        display: none!important;
+    }
+
+    #back-to-top {
+        display: none!important;
+    }
+
+    #footer-logo {
+        margin-bottom: 2rem;
+    }
+
+    .central-banner {
+        .pl-9 {
+            padding-left: 0!important;
+        }
+
+        .pr-9 {
+            padding-right: 0!important;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+        }
+
+        p {
+            font-size: 12px;
+        }
+
+        .image-container {
+            display: none;
+        }
+
+    }
+
+    #login-responsive {
+        .card-body {
+            padding: 5rem 1.5rem!important;
+        }
+
+        #login-footer {
+            position: relative;
+            left: auto!important;
+        }
+    }
+
+    #login-background {
+        display: none;
+    }
+
+    .nav-item {
+        width: 100%!important;
+    }
+
+    #footer {
+        padding-left: 3rem!important;
+    }
+
+    .frontend-body {
+
+        .navbar {
+            padding: 0;
+        }
+        
+        .navbar-collapse {
+            background: #FFF;
+            padding: 1rem;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);
+        }
+    }
+
+    .policy {
+
+        .card-body {
+            padding: 4rem 1rem!important;
+        }
+    }
+}
